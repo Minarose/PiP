@@ -1,6 +1,6 @@
 # Participation in Percolation (PiP): A Data-Driven Measure of Network Hubs in Functional Brain Networks
 
-**Brady J. Williamson, PhD<sup>1</sup>**, Minarose Ismail, BSc<sup>2,3</sup>, Darren S Kadis, PhD<sup>2,3**</sup>
+**Brady J. Williamson<sup>1</sup>**, Minarose Ismail<sup>2,3</sup>, Darren S Kadis<sup>2,3**</sup>
 
 <sup>1</sup>University of Cincinnati College of Medicine, Department of Radiology, Cincinnati, OH, 45219  
 <sup>2</sup>Neurosciences and Mental Health, Hospital for Sick Children, Toronto, ON, Canada  

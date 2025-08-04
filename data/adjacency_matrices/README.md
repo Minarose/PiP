@@ -1,4 +1,4 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/57a42113-9ca4-4136-8c91-2dcafd0012ca" /># Adjacency Matrices
+# Input Adjacency Matrices
 
 This folder contains individual subject adjacency matrices representing broadband **undirected functional connectivity** across nodes of the expressive language network during a covert verb generation task in **children and adolescents**.
 

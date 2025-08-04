@@ -8,6 +8,8 @@
 
 ## **Overview**  
 PiP is a toolbox for the identfication of network hubs in a data driven manner via probabilitically sampled randomized network node attacks and percolation-based collapse analysis. To establish the validity and biological relevance of this approach, we apply PiP to magnetoencephalography (MEG) data to localize language network hubs in a pediatric cohort performing an expressive language task.
+
+
 This repository accompanies the following study:
 
 > **"Participation in Percolation: 

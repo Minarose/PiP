@@ -31,7 +31,7 @@ To run the full pipeline on included data:
    → Input: node participation matrices in `results/`  
    → Output: subject-level PiP surface plots
    **Example Output:**  
-![Example Surface Plot](./figures/PiP_3Dsurfaces/AD05_broadband_psi_adj_participation_in_percolation_3Dsurface.png)
+![Example Surface Plot](./figures/PiP_3Dsurfaces/AD02_broadband_psi_adj_participation_in_percolation_3Dsurface.png)
 ---
 
 3. **Perform consensus clustering to identify critical hubs**  

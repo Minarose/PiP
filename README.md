@@ -52,7 +52,16 @@ To run the full pipeline on included data:
 5. **Compare PiP results with classical hub metrics**  
    `5_compare_metrics_consensus.py`  
    → Input: PiP and graph-theory hub matrices  
-   → Output: Jaccard comparisons + consensus clustering figures\(`figures/PiP_group_consensus/`)  
+   → Output: Jaccard comparisons + consensus clustering figures\(`figures/PiP_group_consensus/`)
+
+   **PiP map:**  
+![PiP Consensus](./figures/PiP_group_consensus/pip_consensus_k2.png)
+   **Degree map:**  
+![Degree Consensus](./figures/PiP_group_consensus/degree_consensus_k2.png)
+   **Betweenness map:**  
+![betweenness Consensus](./figures/PiP_group_consensus/betweenness_consensus_k2.png)
+   **PageRank map:**  
+![PageRank Consensus](./figures/PiP_group_consensus/pagerank_consensus_k2.png)
 
 ---
 

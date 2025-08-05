@@ -2,7 +2,7 @@
 
 **Brady J. Williamson<sup>1</sup>**, Minarose Ismail<sup>2,3</sup>, Darren S Kadis<sup>2,3</sup>
 
-<sup>1</sup>University of Cincinnati College of Medicine, Department of Radiology, Cincinnati, OH, 45219  
+<sup>1</sup>University of Cincinnati College of Medicine, Department of Radiology, Cincinnati, OH, USA  
 <sup>2</sup>Neurosciences and Mental Health, Hospital for Sick Children, Toronto, ON, Canada  
 <sup>3</sup>Department of Physiology, University of Toronto, Toronto, ON, Canada
 

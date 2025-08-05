@@ -30,7 +30,8 @@ To run the full pipeline on included data:
    `scripts/2_viz_attack_surf.ipynb`  
    → Input: node participation matrices in `results/`  
    → Output: subject-level PiP surface plots
-   **Example Output:**  
+   
+   **Example Output for 1 subject:**  
 ![Example Surface Plot](./figures/PiP_3Dsurfaces/AD02_broadband_psi_adj_participation_in_percolation_3Dsurface.png)
 ---
 
